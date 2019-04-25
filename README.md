@@ -2,4 +2,4 @@
 drawn with python Turtle
 
 
-![alt text](https://i.imgur.com/EL0hGvM.png)
+![alt text](https://i.imgur.com/ehxI23k.png)
